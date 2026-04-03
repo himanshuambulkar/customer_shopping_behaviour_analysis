@@ -1,6 +1,8 @@
 # customer_shopping_behaviour_analysis
 Data analysis project showcasing customer behaviour analysis using python, sql and power Bi
+
 📊 Customer Shopping Behavior Analysis
+
 🔍 Overview
 -This project analyzes customer shopping behavior using transaction data of around 3,900 records.
 -The main objective is to understand customer spending patterns, product preferences, and subscription trends to support better business decisions.
@@ -41,39 +43,39 @@ Created purchase frequency feature
 
 
 Solved important business questions:
-Revenue by gender
-Top-rated products
-Customer segmentation (New, Returning, Loyal)
-Subscription behavior
-Revenue by age group
-Discount impact on sales
+- Revenue by gender
+- Top-rated products
+- Customer segmentation (New, Returning, Loyal)
+- Subscription behavior
+- Revenue by age group
+- Discount impact on sales
 
 6. Dashboard (Power BI)
-Built an interactive dashboard to visualize:
-Sales trends
-Customer segments
-Product performance
-Revenue insights
+- Built an interactive dashboard to visualize:
+- Sales trends
+- Customer segments
+- Product performance
+- Revenue insights
 
 8. Reporting & Presentation
-Created a detailed report
-Designed presentation using Gamma
+- Created a detailed report
+- Designed presentation using Gamma
 
 📊 Dashboard
 
-The Power BI dashboard provides:
-Clear view of sales and revenue
-Customer segmentation insights
-Top-performing products
-Subscription analysis
+-  The Power BI dashboard provides:-
+    - Clear view of sales and revenue
+    - Customer segmentation insights
+    - Top-performing products
+    - Subscription analysis
 
 📈 Results & Insights
 
-Loyal customers contribute more revenue
-Discounts increase sales but need control
-Some products perform better consistently
-Specific age groups generate higher revenue
-Subscribers show different spending behavior
+- Loyal customers contribute more revenue
+- Discounts increase sales but need control
+- Some products perform better consistently
+- Specific age groups generate higher revenue
+- Subscribers show different spending behavior
 
 🚀 Project Flow (How to Run)
 Step 1: Python
